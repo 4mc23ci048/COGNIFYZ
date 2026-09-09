@@ -498,7 +498,7 @@ Your password satisfies all checks.
 
 ### 📸 Screenshot
 
-![Task 3 - Password Strength Checker](PythonDevelopment_Level2/Task3_Password_Strength_Checker/password.png)
+![Task 3 - Password Strength Checker](PythonDevelopment_Level2/Task3_Password_Stength_Checker/password.png)
 
 ---
 
