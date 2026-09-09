@@ -74,7 +74,7 @@ Program completed successfully.
 
 ### 📸 Screenshot
 
-[Task 1 - String Reversal](PythonDevelopment_Level1/Task1_String_Reversal/string reversal.png)
+![Task 1 - String Reversal](PythonDevelopment_Level1/Task1_String_Reversal/string reversal.png)
 
 ---
 
@@ -364,7 +364,7 @@ Attempts      : 3
 
 ### 📸 Screenshot
 
-![Task 1 - Guessing Game](Level-2/screenshots/task1.png)
+![Task 1 - Guessing Game](PythonDevelopment_Level2/Task1_Gusessing_Game/guessing game.png)
 
 ---
 
@@ -431,7 +431,7 @@ Total Attempts : 4
 
 ### 📸 Screenshot
 
-![Task 2 - Number Guesser](Level-2/screenshots/task2.png)
+![Task 2 - Number Guesser](PythonDevelopment_Level2/Task2_Number_Guesser/number guessing.png)
 
 ---
 
@@ -493,7 +493,7 @@ Your password satisfies all checks.
 
 ### 📸 Screenshot
 
-![Task 3 - Password Strength Checker](Level-2/screenshots/task3.png)
+![Task 3 - Password Strength Checker](PythonDevelopment_Level2/Task3_Password_Strength_Checker/password strength.png)
 
 ---
 
@@ -540,7 +540,7 @@ Number of Terms : 10
 
 ### 📸 Screenshot
 
-![Task 4 - Fibonacci Sequence](Level-2/screenshots/task4.png)
+![Task 4 - Fibonacci Sequence](PythonDevelopment_Level2/Task4_Fibonacci_Sequence/fibonacci.png)
 
 ---
 
@@ -602,7 +602,7 @@ Total Unique Words : 11
 
 ### 📸 Screenshot
 
-![Task 5 - File Manipulation](Level-2/screenshots/task5.png)
+![Task 5 - File Manipulation](PythonDevelopment_Level2/Task5_File_Manipulation/file manipulation.png)
 
 ---
 
@@ -671,55 +671,6 @@ python task1_guessing_game.py
 
 ---
 
-# 📸 Screenshots
-
-Screenshots of each task are included in the repository to demonstrate the execution and output of the programs.
-
-## Level 1
-
-### Task 1 – String Reversal
-
-![String Reversal](Level-1/screenshots/task1.png)
-
-### Task 2 – Temperature Conversion
-
-![Temperature Conversion](Level-1/screenshots/task2.png)
-
-### Task 3 – Email Validator
-
-![Email Validator](Level-1/screenshots/task3.png)
-
-### Task 4 – Calculator
-
-![Calculator](Level-1/screenshots/task4.png)
-
-### Task 5 – Palindrome Checker
-
-![Palindrome Checker](Level-1/screenshots/task5.png)
-
-## Level 2
-
-### Task 1 – Guessing Game
-
-![Guessing Game](Level-2/screenshots/task1.png)
-
-### Task 2 – Number Guesser
-
-![Number Guesser](Level-2/screenshots/task2.png)
-
-### Task 3 – Password Strength Checker
-
-![Password Strength Checker](Level-2/screenshots/task3.png)
-
-### Task 4 – Fibonacci Sequence
-
-![Fibonacci Sequence](Level-2/screenshots/task4.png)
-
-### Task 5 – File Manipulation
-
-![File Manipulation](Level-2/screenshots/task5.png)
-
----
 
 # 🎯 Conclusion
 
@@ -737,5 +688,4 @@ Python Programming – Cognifyz Tasks
 
 ---
 
-⭐ If you find this repository useful, feel free to star the repository!
 
