@@ -74,7 +74,7 @@ Program completed successfully.
 
 ### 📸 Screenshot
 
-![Task 1 - String Reversal](PythonDevelopment_Level1/Task1_String_Reversal/string reversal.png)
+![Task 1 - String Reversal](PythonDevelopment_Level1/Task1_String_Reversal/string.png)
 
 ---
 
@@ -186,7 +186,7 @@ Status: VALID
 
 ### 📸 Screenshot
 
-![Task 3 - Email Validator](PythonDevelopment_Level1/Task3_Email_Validation/email validation.png)
+![Task 3 - Email Validator](PythonDevelopment_Level1/Task3_Email_Validation/email.png)
 
 ---
 
@@ -242,7 +242,10 @@ Thank you for using calculator!
 
 ### 📸 Screenshot
 
-![Task 4 - Calculator](PythonDevelopment_Level1/Task3_Calculator/calculator1.png)(PythonDevelopment_Level1/Task3_Calculator/calculator2.png)
+![Task 4 - Calculator](PythonDevelopment_Level1/Task3_Calculator/calculator1.png)
+
+
+![Calculator](PythonDevelopment_Level1/Task3_Calculator/calculator2.png)
 
 ---
 
@@ -364,7 +367,7 @@ Attempts      : 3
 
 ### 📸 Screenshot
 
-![Task 1 - Guessing Game](PythonDevelopment_Level2/Task1_Gusessing_Game/guessing game.png)
+![Task 1 - Guessing Game](PythonDevelopment_Level2/Task1_Gusessing_Game/guessing.png)
 
 ---
 
@@ -431,7 +434,7 @@ Total Attempts : 4
 
 ### 📸 Screenshot
 
-![Task 2 - Number Guesser](PythonDevelopment_Level2/Task2_Number_Guesser/number guessing.png)
+![Task 2 - Number Guesser](PythonDevelopment_Level2/Task2_Number_Guesser/number.png)
 
 ---
 
@@ -493,7 +496,7 @@ Your password satisfies all checks.
 
 ### 📸 Screenshot
 
-![Task 3 - Password Strength Checker](PythonDevelopment_Level2/Task3_Password_Strength_Checker/password strength.png)
+![Task 3 - Password Strength Checker](PythonDevelopment_Level2/Task3_Password_Strength_Checker/password.png)
 
 ---
 
@@ -602,7 +605,7 @@ Total Unique Words : 11
 
 ### 📸 Screenshot
 
-![Task 5 - File Manipulation](PythonDevelopment_Level2/Task5_File_Manipulation/file manipulation.png)
+![Task 5 - File Manipulation](PythonDevelopment_Level2/Task5_File_Manipulation/file.png)
 
 ---
 
@@ -684,7 +687,6 @@ The projects demonstrate my ability to create interactive Python programs using 
 
 **Saniya Banu**
 
-Python Programming – Cognifyz Tasks
 
 ---
 
