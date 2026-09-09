@@ -139,7 +139,9 @@ Thank you for using the program!
 
 ### 📸 Screenshot
 
-![Task 2 - Temperature Conversion](PythonDevelopment_Level1/Task2_Temperature_Conversion/celsius.png)(PythonDevelopment_Level1/Task2_Temperature_Conversion/fahrenheit.png)
+![Task 2 - Temperature Conversion](PythonDevelopment_Level1/Task2_Temperature_Conversion/celsius.png)
+
+![](PythonDevelopment_Level1/Task2_Temperature_Conversion/fahrenheit.png)
 
 
 ---
