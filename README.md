@@ -74,7 +74,7 @@ Program completed successfully.
 
 ### 📸 Screenshot
 
-![Task 1 - String Reversal](PythonDevelopment_Level1/Task1_String_Reversal/string reversal.png)
+[Task 1 - String Reversal](PythonDevelopment_Level1/Task1_String_Reversal/string reversal.png)
 
 ---
 
