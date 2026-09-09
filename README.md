@@ -659,19 +659,20 @@ Open the project folder in **VS Code** or another Python IDE.
 For example:
 
 ```text
-Level-1/Task-1-String-Reversal/
+PythonDevelopment_Level2/Task5_File_Manipulation
 ```
 
 ## 4. Run the Python Program
 
 ```bash
-python task1_string_reversal.py
+python pd
+-level1_task4_calculator.py
 ```
 
 For Level 2:
 
 ```bash
-python task1_guessing_game.py
+python pd_level1_task1_guessing_game.py
 ```
 
 ---
