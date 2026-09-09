@@ -74,7 +74,7 @@ Program completed successfully.
 
 ### 📸 Screenshot
 
-![Task 1 - String Reversal](Level-1/screenshots/task1.png)
+![Task 1 - String Reversal](PythonDevelopment_Level1/Task1_String_Reversal/string reversal.png)
 
 ---
 
@@ -139,7 +139,8 @@ Thank you for using the program!
 
 ### 📸 Screenshot
 
-![Task 2 - Temperature Conversion](Level-1/screenshots/task2.png)
+![Task 2 - Temperature Conversion](PythonDevelopment_Level1/Task2_Temperature_Conversion/celsius.png)(PythonDevelopment_Level1/Task2_Temperature_Conversion/fahrenheit.png)
+
 
 ---
 
@@ -185,7 +186,7 @@ Status: VALID
 
 ### 📸 Screenshot
 
-![Task 3 - Email Validator](Level-1/screenshots/task3.png)
+![Task 3 - Email Validator](PythonDevelopment_Level1/Task3_Email_Validation/email validation.png)
 
 ---
 
@@ -241,7 +242,7 @@ Thank you for using calculator!
 
 ### 📸 Screenshot
 
-![Task 4 - Calculator](Level-1/screenshots/task4.png)
+![Task 4 - Calculator](PythonDevelopment_Level1/Task3_Calculator/calculator1.png)(PythonDevelopment_Level1/Task3_Calculator/calculator2.png)
 
 ---
 
@@ -287,7 +288,7 @@ The text reads the same backward.
 
 ### 📸 Screenshot
 
-![Task 5 - Palindrome Checker](Level-1/screenshots/task5.png)
+![Task 5 - Palindrome Checker](PythonDevelopment_Level1/Task5_Palindrome_Checker/palindrome.png)
 
 ---
 
