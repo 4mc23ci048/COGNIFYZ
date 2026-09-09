@@ -1,5 +1,3 @@
-# COGNIFYZ
-Python Development Internship Program
 # 🐍 Python Development Internship Program– Cognifyz
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
