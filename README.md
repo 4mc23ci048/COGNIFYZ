@@ -244,10 +244,10 @@ Thank you for using calculator!
 
 ### 📸 Screenshot
 
-![Task 4 - Calculator](PythonDevelopment_Level1/Task3_Calculator/calculator1.png)
+![Task 4 - Calculator](PythonDevelopment_Level1/Task4_Calculator/calculator1.png)
 
 
-![Calculator](PythonDevelopment_Level1/Task3_Calculator/calculator2.png)
+![Calculator](PythonDevelopment_Level1/Task4_Calculator/calculator2.png)
 
 ---
 
